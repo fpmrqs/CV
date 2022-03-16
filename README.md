@@ -1,6 +1,8 @@
-## Your Name
+## Francisco Pottinger-Marques
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+
+
 
 ## Projects
 
@@ -53,25 +55,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (December 2021 to March 2022)
+16 weeks immersive fully remote coding bootcamp covering the following subjects:
+- Daily pair programming, enhancing problem solving and teamwork skills
+- Object-oriented programming best practices
+- Test driven development: we were writing unit tests from day one
+- Technologies used: Ruby, Rails, JavaScript, Node, Express, PostgreSQL and MongoDB
+- Frameworks used for testing: RSpec, Jest
 
-#### Your University / College (start_date to end_date)
+#### Universidade Federal do Rio Grande do Norte (UFRN), Brazil (2009 to 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Design
+- The four years degree covered Graphic and Product Design
+- Had two different internships helping internal departments to plan and run University events
 
-#### Any other qualifications
+#### Middlesex University, UK (2013 to 2014)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Graphic Design
+- I was granted a fully funded scholarship to study abroad as part of a Brazilian government exchange program
 
-## Hobbies
+## Hobbies and Interests
 
-Any cool stuff that makes you a super part of a software development team
+- Graphic Design remains as a big interest and its principles can be applied to pretty much any industry
+- Baking and mixing cocktails, I love getting my hands dirty after a busy week of computer based work
