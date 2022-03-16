@@ -2,56 +2,33 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
-
-
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **A Pinkman's Journey**            | A webapp to do x. | Javascript, Node, Express, Phaser, Jest |
+| **MyAce** | A webapp to do y. | Ruby on Rails             |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Printstore** (start-date to end-date)  
+_Pre-press and Digital Specialist_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**ABC Imaging** (start-date to end-date)  
+_Pre-flight Operator_
 
 - Any experience relevent to software development
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Initiative
 
--STAR
--What was the situation/task? (ST)
+I moved back to the UK after University in 2015 and despite not having a network of people to help me, I worked hard and put myself in front of the opportunities I wanted by not being affraid of being uncomfortable. I built a career in a different industry and I'm happy to be doing it all over again by transitioning into tech.
 
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Eager Learner
+During my employment at Printsotre, my line manager was impressed with how quickly I became proficient at the different softwares used in the role and mentioned I went on to gain knowledge beyond what was offered by their training. For my [final project](https://github.com/ravensears/RPG-Game) at Makers, despite not having time to add the game features that would make use of them, I learned and implemented database and authentication features using MongoDB and Passport.js for future development of the project.
 
 ## Education
 
