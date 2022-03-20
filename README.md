@@ -1,25 +1,29 @@
 ## Francisco Pottinger-Marques
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm a Software Engineer recently graduated from Makers Academy. I come from a Graphic Design background and have worked in the Print Industry for the last 6 years, so I'm transitioning from making physical products to building digital ones. Even though I'm an engineer first, design and user experience will always be close to my heart. I'm very excited about building meaningful software that makes a difference on people's daily experiences.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **A Pinkman's Journey**            | A webapp to do x. | Javascript, Node, Express, Phaser, Jest |
-| **MyAce** | A webapp to do y. | Ruby on Rails             |
+| Name                         | Description       | Tech/tools        | Repo/Live link
+| ---------------------------- | ----------------- | ----------------- | ----------------- |
+| **A Pinkman's Journey** <a href="https://github.com/fpmrqs/A-Pinkmans-Journey"><img align="bottom" alt="myAce" width="86px" src="https://github.com/ravensears/A-Pinkmans-Journey/blob/main/src/sprites/logo.png?raw=true" /></a>           | A space treasure hunt 2D game. This game was built in just two weeks for our Makers final Project. | Javascript, Node, Express, Phaser, Jest, Heroku, Github Actions | [Repo](https://github.com/fpmrqs/A-Pinkmans-Journey)<br />[Live](https://lonely-hearts-club.herokuapp.com/game) |
+| **MyAce** <br/><br/><a href ="https://github.com/fpmrqs/Team-myAce-acebook-rails-template"><img align="bottom" alt="myAce" width="76px" src="https://myace.herokuapp.com/images/myace_logo_v2.svg" /></a> | A social media where users can register, have an avatar picture, post on a general feed and also post on each other's personal walls | Ruby on Rails, SCSS, Bootstrap, Heroku, CircleCI, Rspec             | [Repo](https://github.com/fpmrqs/Team-myAce-acebook-rails-template)<br />[Live](https://myace.herokuapp.com) |?""""""""""""""""
 
 ## Work Experience
 
-**Printstore** (start-date to end-date)  
+**Printstore** (January 2019 to September 2021)  
 _Pre-press and Digital Specialist_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Checking, editing, imposing and proofing artwork
+- Communcating with the production team to assure a smooth run of the job
+- Maintaining online shop by updating products
 
-**ABC Imaging** (start-date to end-date)  
+**ABC Imaging** (December 2016 to December 2018)  
 _Pre-flight Operator_
 
-- Any experience relevent to software development
+- Imposing and writing instructions for each print job
+- Liasing with clients to understand requirements
+- Overseeing workflow to make sure products will be despatched on time
 
 ## Skills
 
