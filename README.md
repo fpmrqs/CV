@@ -7,7 +7,7 @@ I'm a Software Engineer recently graduated from Makers Academy. I come from a Gr
 | Name                         | Description       | Tech/tools        | Repo/Live link
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
 | **A Pinkman's Journey** <a href="https://github.com/fpmrqs/A-Pinkmans-Journey"><img align="bottom" alt="myAce" width="86px" src="https://github.com/ravensears/A-Pinkmans-Journey/blob/main/src/sprites/logo.png?raw=true" /></a>           | A space treasure hunt 2D game. This game was built in just two weeks for our Makers final Project. | Javascript, Node, Express, Phaser, Jest, Heroku, Github Actions | [Repo](https://github.com/fpmrqs/A-Pinkmans-Journey)<br />[Live](https://lonely-hearts-club.herokuapp.com/game) |
-| **MyAce** <br/><br/><a href ="https://github.com/fpmrqs/Team-myAce-acebook-rails-template"><img align="bottom" alt="myAce" width="76px" src="https://myace.herokuapp.com/images/myace_logo_v2.svg" /></a> | A social media where users can register, have an avatar picture, post on a general feed and also post on each other's personal walls | Ruby on Rails, SCSS, Bootstrap, Heroku, CircleCI, Rspec             | [Repo](https://github.com/fpmrqs/Team-myAce-acebook-rails-template)<br />[Live](https://myace.herokuapp.com) |?""""""""""""""""
+| **MyAce** <br/><br/><a href ="https://github.com/fpmrqs/Team-myAce-acebook-rails-template"><img align="bottom" alt="myAce" width="76px" src="https://myace.herokuapp.com/images/myace_logo_v2.svg" /></a> | A social media where users can register, have an avatar picture, post on a general feed and also post on each other's personal walls | Ruby on Rails, SCSS, Bootstrap, Heroku, CircleCI, Rspec             | [Repo](https://github.com/fpmrqs/Team-myAce-acebook-rails-template)<br />[Live](https://myace.herokuapp.com) |
 
 ## Work Experience
 
@@ -32,7 +32,10 @@ _Pre-flight Operator_
 I moved back to the UK after University in 2015 and despite not having a network of people to help me, I worked hard and put myself in front of the opportunities I wanted by not being affraid of being uncomfortable. I built a career in a different industry and I'm happy to be doing it all over again by transitioning into tech.
 
 #### Eager Learner
-During my employment at Printsotre, my line manager was impressed with how quickly I became proficient at the different softwares used in the role and mentioned I went on to gain knowledge beyond what was offered by their training. For my [final project](https://github.com/ravensears/RPG-Game) at Makers, despite not having time to add the game features that would make use of them, I learned and implemented database and authentication features using MongoDB and Passport.js for future development of the project.
+During my employment at Printstore, my line manager was impressed with how quickly I became proficient at the different softwares used in the role and mentioned I went on to gain knowledge beyond what was offered by their training. For my [final project](https://github.com/ravensears/RPG-Game) at Makers, despite not having time to add the game features that would make use of them, I learned and implemented database and authentication features using MongoDB and Passport.js for future development of the project.
+
+#### Communication and Mentorship
+Throughout my career in print I had liase with clients/graphic designers, extract technical requirements from their ideas and explain these back to them. At Makers, I've been enthusiastic about helping peers understand concepts whenever I can and became a mentor to two developers just starting the course.
 
 ## Education
 
