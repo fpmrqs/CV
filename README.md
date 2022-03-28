@@ -29,7 +29,7 @@ _Pre-flight Operator_
 
 #### Initiative
 
-I moved back to the UK after University in 2015 and despite not having a network of people to help me, I worked hard and put myself in front of the opportunities I wanted by not being affraid of being uncomfortable. I built a career in a different industry and I'm happy to be doing it all over again by transitioning into tech.
+I moved back to the UK after University in 2015 and despite not having a network of people to help me, I worked hard and put myself in front of the opportunities I wanted by not being afraid of being uncomfortable. I built a career in a different industry and I'm happy to be doing it all over again by transitioning into tech.
 
 #### Eager Learner
 During my employment at Printstore, my line manager was impressed with how quickly I became proficient at the different softwares used in the role and mentioned I went on to gain knowledge beyond what was offered by their training. For my [final project](https://github.com/ravensears/RPG-Game) at Makers, despite not having time to add the game features that would make use of them, I learned and implemented database and authentication features using MongoDB and Passport.js for future development of the project.
