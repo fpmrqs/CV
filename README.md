@@ -14,16 +14,16 @@ I'm a Software Engineer recently graduated from Makers Academy. I come from a Gr
 **Printstore** (January 2019 to September 2021)  
 _Pre-press and Digital Specialist_
 
-- Checking, editing, imposing and proofing artwork
-- Communcating with the production team to assure a smooth run of the job
-- Maintaining online shop by updating products
+- Checking, editing, imposing and proofing artwork. This part of the job was very detail oriented and relies on tripple checking every corner of each page, as a small mistake will result on big waste.
+- Communcating with the production team to assure a smooth run of each job. 
+- Maintaining online shop by updating products details.
 
 **ABC Imaging** (December 2016 to December 2018)  
 _Pre-flight Operator_
 
-- Imposing and writing instructions for each print job
-- Liasing with clients to understand requirements
-- Overseeing workflow to make sure products will be despatched on time
+- Imposing and writing instructions for each print job.
+- Liasing with clients to understand requirements.
+- Overseeing workflow to make sure products will be despatched on time.
 
 ## Skills
 
