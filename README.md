@@ -8,6 +8,7 @@ I'm a Software Engineer recently graduated from Makers Academy. I come from a Gr
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
 | **A Pinkman's Journey** <a href="https://github.com/fpmrqs/A-Pinkmans-Journey"><img align="bottom" alt="myAce" width="86px" src="https://github.com/ravensears/A-Pinkmans-Journey/blob/main/src/sprites/logo.png?raw=true" /></a>           | A space treasure hunt 2D game. This game was built in just two weeks for our Makers final Project. | Javascript, Node, Express, Phaser, Jest, Heroku, Github Actions | [Repo](https://github.com/fpmrqs/A-Pinkmans-Journey)<br />[Live](https://lonely-hearts-club.herokuapp.com/game) |
 | **MyAce** <br/><br/><a href ="https://github.com/fpmrqs/Team-myAce-acebook-rails-template"><img align="bottom" alt="myAce" width="76px" src="https://myace.herokuapp.com/images/myace_logo_v2.svg" /></a> | A social media where users can register, have an avatar picture, post on a general feed and also post on each other's personal walls | Ruby on Rails, SCSS, Bootstrap, Heroku, CircleCI, Rspec             | [Repo](https://github.com/fpmrqs/Team-myAce-acebook-rails-template)<br />[Live](https://myace.herokuapp.com) |
+| **Bowling** | Application to be used to calculate user's bowling scores. The logic was built using TDD and OOP principles | Javascript, Jest, HTML, CSS | [Repo](https://github.com/fpmrqs/bowling-score) |
 
 ## Work Experience
 
