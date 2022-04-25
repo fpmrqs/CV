@@ -1,6 +1,20 @@
 ## Francisco Pottinger-Marques
 
-I'm a Software Engineer who recently graduated from Makers Academy. I come from a Graphic Design background and have worked in the Print Industry for the last 6 years, so I'm transitioning from making physical products to building digital ones. Even though I'm an engineer first, design and user experience will always be close to my heart. I'm very excited about building meaningful software that makes a difference in people's daily experiences.
+I am an enthusiastic Software Engineer who recently graduated
+from Makers Academy, an intensive 16 weeks course where I
+had the chance to develop my engineering skills and learn the best
+practices adopted in the tech industry.  
+
+I fell in love with coding ever since first trying to learn the
+basics, and what was once something I did in my spare time has
+now my full attention and commitment. Since then I have been
+learning by building full-stack applications using technologies
+like Javascript, NodeJs, and Ruby-on-Rails.  
+
+My creative and technical skills acquired through my bachelor's
+degree in design, and experience working across the print
+industry, translate well into coding, and lead to imaginative and
+pragmatic results.
 
 ## Projects
 
@@ -15,24 +29,24 @@ I'm a Software Engineer who recently graduated from Makers Academy. I come from 
 **Printstore** (January 2019 to September 2021)  
 _Pre-press and Digital Specialist_
 
-- Checking, editing, imposing, and proofing artwork. This part of the job was very detail-oriented and relied on triple-checking every corner of each page, as a small mistake will result in big waste.
-- Communicating with the production team to assure a smooth run of each job. 
-- Maintaining online shop by updating products details.
+- Checking, editing, imposing, and proofing artwork. This part of the job was very detail-oriented and relied on triple-checking every corner of each page, as a small mistake will result in wasted time and resources
+- Communicating with the production team to assure a smooth run of each job. I managed to build a positive, friendly relationship with the team running the presses to facilitate the daily exchanges
+- Maintaining online shops; B2B services included managing clients' shop fronts and updating artwork on demand. Most products are to be live without delay and my time management skills helped me to achieve this
 
 **ABC Imaging** (December 2016 to December 2018)  
 _Pre-flight Operator_
 
-- Imposing and writing instructions for each print job.
-- Liaising with clients to understand requirements.
-- Overseeing workflow to make sure products will be despatched on time.
+- Imposing and writing instructions for each print job for my colleagues in production. This was a very technical role and writing clear, simple, efficient instructions to the production team was essential
+- Liaising with clients to understand product requirements. Translating the client's needs to technical requirements was critical to the product's final look and feel
+- Overseeing workflow and dealing with delays. Decision-making and problem-solving had to be applied daily as my team was the link between production and demanding clients
 
 ## Skills
 
-#### Initiative
+#### Attention to detail
 
-I moved back to the UK after University in 2015 and despite not having a network of people to help me, I worked hard and put myself in front of the opportunities I wanted by not being afraid of being uncomfortable. I built a career in a different industry and I'm happy to be doing it all over again by transitioning into tech.
+While studying graphic design and working in the print industry it was critical to pay the utmost attention to all aspects of what I was producing ranging from the text, images, and format. A mistake in graphic or print order could realistically result in thousands of pounds in reprints, delays, and customer dissatisfaction
 
-#### Eager Learner
+#### Fast Learner
 During my employment at Printstore, my line manager was impressed with how quickly I became proficient in the different software used in the role and mentioned I went on to gain knowledge beyond what was offered by their training. For my [final project](https://github.com/ravensears/RPG-Game) at Makers, despite not having time to add the game features that would make use of them, I learned and implemented database and authentication features using MongoDB and Passport.js for future development of the project.
 
 #### Communication and Mentorship
@@ -61,5 +75,6 @@ Throughout my career in print, I had to liaise with clients/graphic designers, e
 
 ## Hobbies and Interests
 
-- Graphic Design remains a big interest and its principles can be applied to pretty much any industry
-- Baking and mixing cocktails, I love getting my hands dirty after a busy week of computer-based work
+- Graphic Design remains a big interest and its principles can be applied to pretty much any industry. I tend to spend a little extra time learning about styles when building applications
+- Baking: I love making things with my hands after a busy week of computer-based work. It's just like writing algorithms, but we can eat the output
+- Videogames: I grew up playing Super Nintendo in the 90s and have never stopped. I had a lot of fun building a Javascript game for my final project at Makers
