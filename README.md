@@ -6,8 +6,7 @@ had the chance to develop my engineering skills and learn the best
 practices adopted in the tech industry.  
 
 I fell in love with coding ever since first trying to learn the
-basics, and what was once something I did in my spare time has
-now my full attention and commitment. Since then I have been
+basics, and what was once something I did in my spare time now has my full attention and commitment. Since then I have been
 learning by building full-stack applications using technologies
 like Javascript, NodeJs, and Ruby-on-Rails.  
 
